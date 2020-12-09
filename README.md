@@ -1,2 +1,2 @@
 # Pruebas_Git_Entornos
-Pruebas practicas repositorios
+Pruebas prácticas repositorios
